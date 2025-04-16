@@ -1,0 +1,7 @@
+[package]
+name = "deposit"
+type = "bin"
+authors = [""]
+
+[build]
+circuit = "./src/deposit.nr"
